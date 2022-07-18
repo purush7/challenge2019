@@ -1,0 +1,9 @@
+version = 1
+
+[[analyzers]]
+name = "go"
+enabled = true
+
+  [analyzers.meta]
+  import_root = "github.com/purush7/challenge2019"
+  dependencies_vendored = true
